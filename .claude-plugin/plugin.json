@@ -1,0 +1,14 @@
+{
+  "name": "breach-quota",
+  "version": "0.1.0",
+  "description": "A neon-yellow and salmon-red cyberdeck HUD side pane: RAM-block quota timers, a hex code memory matrix, burn rate and cache gauges, a hack trace with sub-agents, and a warning band",
+  "author": {
+    "name": "Jank0vic",
+    "url": "https://github.com/jnk0vc"
+  },
+  "homepage": "https://github.com/jnk0vc/breach-quota",
+  "repository": "https://github.com/jnk0vc/breach-quota",
+  "license": "MIT",
+  "keywords": ["status", "rate-limit", "context-window", "pane", "cyberpunk"],
+  "types": "./types/index.d.ts"
+}

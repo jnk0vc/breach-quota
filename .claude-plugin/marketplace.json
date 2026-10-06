@@ -1,0 +1,21 @@
+{
+  "name": "breach-quota",
+  "description": "Neon-yellow cyberdeck HUD for Claude Code: RAM-block quota timers and a hex code memory matrix in the side pane",
+  "owner": {
+    "name": "Jank0vic",
+    "url": "https://github.com/jnk0vc"
+  },
+  "plugins": [
+    {
+      "name": "breach-quota",
+      "source": "./",
+      "description": "A neon-yellow and salmon-red cyberdeck HUD side pane: RAM-block quota timers, a hex code memory matrix, burn rate and cache gauges, a hack trace with sub-agents, and a warning band, all following this session",
+      "version": "0.1.0",
+      "author": {
+        "name": "Jank0vic",
+        "url": "https://github.com/jnk0vc"
+      },
+      "license": "MIT"
+    }
+  ]
+}
